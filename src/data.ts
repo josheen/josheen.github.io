@@ -25,4 +25,4 @@ export const projects = [
     }
 ];
 
-export const skills = ["Electrical Hardware Design", "C", "C++", "Python", "Typescript", "Tensorflow", "Pandas", "React", "Express"];
+export const skills = ["Electrical Hardware Design", "C", "C++", "Python", "Swift", "Typescript", "Tensorflow", "Pandas", "React", "Express"];
