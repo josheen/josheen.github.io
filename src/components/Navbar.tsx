@@ -26,6 +26,7 @@ function Navbar(){
             </a>
           </div>
         </header>
+    );
 }
 
 export default Navbar;

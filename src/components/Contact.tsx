@@ -6,7 +6,7 @@ function Contact() {
     const [email, setEmail] = React.useState("");
     const [message, setMessage] = React.useState("");
 
-    function encode(data) {
+    function encode(data: any) {
         return Object.keys(data)
         .map(
             (key) => encodeURIComponent(key) + "=" + encodeURIComponent(data[key])
@@ -14,7 +14,7 @@ function Contact() {
         .join("&");
     }
 
-    function handleSubmit(e) {
+    function handleSubmit(e: any) {
         e.preventDefault();
         fetch("/", {
         method: "POST",
