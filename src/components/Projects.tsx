@@ -12,7 +12,8 @@ function Projects(){
              Personal Projects
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            With my background in Electrical Engineering, most of the work I have been focused on were either for University Research or fun embedded side projects. Check them out!
+            Most of the work I have been focused on were for university research or embedded side projects.
+            I am hoping to kick-start some new projects related to music and DSP soon!
             </p>
           </div>
           <div className="flex flex-wrap -m-4">

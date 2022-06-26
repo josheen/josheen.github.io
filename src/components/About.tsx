@@ -12,8 +12,6 @@ function About() {
                 University of Alberta, BSc in Electrical Engineering
                 <br />
                 Software Engineer at Garmin
-                <br /> 
-                Passion for Math and Music!
               </p>
               <div className="flex justify-center">
                 <a
