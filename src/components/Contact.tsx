@@ -39,8 +39,8 @@ function Contact() {
                 style={{ filter: "opacity(0.7)" }}
                 src="https://www.google.com/maps/embed/v1/place?q=Calgary+Alberta&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
                 />
-                <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
-                <div className="lg:w-1/2 px-6">
+                <div className="bg-gray-900 relative flex flex-wrap py-6 rounded-md shadow-md items-center">
+                <div className="lg:w-2/5 px-6">
                     <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                     ADDRESS
                     </h2>
@@ -49,7 +49,7 @@ function Contact() {
                     Canada
                     </p>
                 </div>
-                <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
+                <div className="lg:w-3/5 px-6 mt-4 lg:mt-0">
                     <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                     EMAIL
                     </h2>
