@@ -13,7 +13,6 @@ function App() {
       <About />
       <Projects />
       <Skills />
-      <Tuner />
       <Contact />
     </main>
   );

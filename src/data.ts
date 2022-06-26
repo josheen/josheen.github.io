@@ -1,4 +1,4 @@
-const projects = [
+export const projects = [
     {
         title: "Custom Handheld Gimbal",
         subtitle: "C/C++ and Python",
@@ -23,6 +23,6 @@ const projects = [
         image: "./froth_image.jpg",
         link: "https://github.com/josheenyen99/FrothSoftSensor"
     }
-]
+];
 
-export default projects;
+export const skills = ["Electrical Hardware Design", "C", "C++", "Python", "Typescript", "Tensorflow", "Pandas", "React", "Express"];
