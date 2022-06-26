@@ -9,9 +9,11 @@ function About() {
                 Hi, I'm Jo-Sheen.
               </h1>
               <p className="mb-8 leading-relaxed">
-                University of Alberta
-                Bachelor of Science in Electrical Engineering
+                University of Alberta, BSc in Electrical Engineering
+                <br />
                 Software Engineer at Garmin
+                <br /> 
+                Passion for Math and Music!
               </p>
               <div className="flex justify-center">
                 <a
