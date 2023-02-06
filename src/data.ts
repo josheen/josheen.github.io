@@ -28,7 +28,7 @@ export const projects = [
         subtitle: "Tkinter, Threading, Matplotlib and pyAudio",
         description:
             "A guitar tuner app that I built using tkinter, pyAudio, and Matplotlib. The app is designed to only have a single main frame containing a live plotter and labels to notify the user of detected changes in pitch; the main tuning thread is connected to the frontend with a queue and updated using another thread ran on the mainframe layer. Lastly, the GUI was built with the intention that the tuner implementation is simply a thread and should be treated as a type of interface.",
-        image: "./pyGuitarTuner.png",
+        image: "./tuner_demo.gif",
         link: "https://github.com/josheenyen99/pyGuitarTuner"
     }
 ];
