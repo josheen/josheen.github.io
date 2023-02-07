@@ -11,10 +11,7 @@ function Contact() {
                 height="100%"
                 title="map"
                 className="absolute inset-0"
-                frameBorder={0}
-                marginHeight={0}
-                marginWidth={0}
-                style={{ filter: "opacity(0.7)" }}
+                style={{ filter: "opacity(0.7)", border: 0, margin: 0}}
                 src="https://www.google.com/maps/embed/v1/place?q=Calgary+Alberta&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
                 />
                 <div className="bg-gray-900 relative flex flex-wrap py-6 rounded-md shadow-md items-center">
