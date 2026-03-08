@@ -12,7 +12,7 @@ function Contact() {
                 title="map"
                 className="absolute inset-0"
                 style={{ filter: "opacity(0.7)", border: 0, margin: 0}}
-                src="https://www.google.com/maps/embed/v1/place?q=Calgary+Alberta&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+                src="https://www.google.com/maps?q=Calgary+Alberta&output=embed"
                 />
                 <div className="bg-gray-900 relative flex flex-wrap py-6 rounded-md shadow-md items-center">
                 <div className="lg:w-2/5 px-6">
